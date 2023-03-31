@@ -1,24 +1,15 @@
-# README
+# Secret Menu API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple API that allows you to get the secret menu items from your favorite restaurants.
 
-Things you may want to cover:
+## Database
 
-* Ruby version
+It's using SQLite as a database.
 
-* System dependencies
+## API
 
-* Configuration
+The API is using the [Ruby on Rails](http://rubyonrails.org/) framework.
 
-* Database creation
+## Frontend
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The frontend is using [React](https://facebook.github.io/react/).
